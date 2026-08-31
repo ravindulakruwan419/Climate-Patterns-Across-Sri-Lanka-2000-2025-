@@ -41,7 +41,7 @@ This project turns raw NASA satellite climate data into a structured, queryable 
 
 ## Dashboard
 
-[📊 View the Power BI Dashboard (PDF)](Climate%20Patterns%20Across%20Sri%20Lanka%20(2000-2025).pdf)
+![Power BI Dashboard](Climate%20Patterns%20Across%20Sri%20Lanka%20%282000%E2%80%932025%29.pdf)
 
 The dashboard includes four charts: average temperature by city, monthly rainfall pattern (monsoon detection), year-over-year temperature trend, and a temperature-vs-rainfall scatter plot.
 
